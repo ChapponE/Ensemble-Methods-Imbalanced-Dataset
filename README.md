@@ -1,7 +1,7 @@
 # Imbalanced Classification Project
 
 This project explores various machine learning algorithms and sampling techniques for handling imbalanced datasets. It implements and evaluates different classification models with various balancing strategies to improve performance on minority classes.
-The report is available [here](https://github.com/ChapponE/Ensemble-Methods-Imbalanced-Dataset/report.pdf)
+The report is available [here](https://github.com/ChapponE/Ensemble-Methods-Imbalanced-Dataset/Report.pdf)
 
 ## Project Structure
 
