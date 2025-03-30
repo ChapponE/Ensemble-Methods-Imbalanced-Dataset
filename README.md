@@ -8,7 +8,7 @@ This project explores various machine learning algorithms and sampling technique
 - `results.ipynb`: Jupyter notebook for analyzing and visualizing results
 - `prepdata.py`: Functions for data loading and preprocessing
 - `balanceCheck.py`: Functions for analyzing and categorizing datasets based on class imbalance
-- `datasets`: Directory containing the datasets used in the project (find the datasets on the github releases)
+- `datasets`: Directory containing the datasets used in the project 
 - `results_merged.json`: File containing the results of the project
 
 ## Features
